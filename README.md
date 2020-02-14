@@ -2,4 +2,4 @@
 
 A linear regression model that predicts the outcome for a tennis player based on their playing habits.
 
-step by step description of the project are inside of TennisAce.ipyn file. For an exellent experience run it in Google Colab.
+A step by step description of the project are inside of TennisAce.ipyn file. For an exellent experience run it in Google Colab.
